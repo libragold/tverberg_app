@@ -25,8 +25,8 @@ msize = -6px
   width size
   height size
   border-radius size
-  padding-left msize
-  padding-top msize
+  margin-left msize
+  margin-top msize
   background-color #00024A
   position absolute
   opacity 0.5

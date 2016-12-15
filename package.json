@@ -10,6 +10,7 @@
     "lint": "eslint --ext .js,.vue src"
   },
   "dependencies": {
+    "convexhull-js": "^1.0.0",
     "martinez-polygon-clipping": "^0.1.5",
     "mathjs": "^3.8.0",
     "vue": "^2.1.0"
